@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fathihah</h1>
-<h1 align="center"> <img src="https://github.com/STIA1113-A201/assignment-1-nurfathihah/blob/main/GAMBAR%20PASSPORT.jpg" width="300" height="330"  /> </h1>
+<h1 align="center"> <img src="https://github.com/nurfathihah/AboutMe/blob/main/NurFathihah.jpg" width="400" height="550"  /> </h1>
 <h3 align="center">I am Nur Fathihah binti Salmizi, a final year student of Bachelor of Science with Honour (Decision Science) specialized in Mathematic, Statistic and Operational Research and a minor in Web Application from Universiti Utara Malaysia.</h3>
 
 - 🔭 I’m currently working on **ANALYZING THE SMEs DIGITALIZATION IN MALAYSIA FOR BUSINESS SUSTAINABILITY USING A SYSTEM DYNAMICS APPROACH**
